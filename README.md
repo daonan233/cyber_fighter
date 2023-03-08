@@ -1,4 +1,4 @@
-# cyber_fighter
+# Cyber_Fighter
 
 #### 一款由easyX&C++编写的进阶飞机大战游戏
 
