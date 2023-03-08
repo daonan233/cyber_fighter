@@ -1,6 +1,7 @@
 # Cyber_Fighter
 
-#### 一款由easyX&C++编写的进阶飞机大战游戏
+#### 一款由easyX&C++编写的进阶飞机大战游戏，WASD控制方向，k键发射子弹<br>
+BGM: 同步音律喵赛克 Galaxy Striker
 
 ___
 
